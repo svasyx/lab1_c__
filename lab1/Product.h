@@ -14,7 +14,7 @@ private://приватні поля класу
 	char* _hesh;
 	char* _name;
 	float _weight;
-	void checkweight(int population);//закрита функція перевірки на правилність вводу населення
+	void checkweight(int population);//закрита функція перевірки на правилність вводу ваги
 
 public:
 
